@@ -16,7 +16,7 @@ System.setProperty("webdriver.chrome.driver",
 	    "/Users/ranahamdan/.cache/selenium/chromedriver/mac-arm64/139.0.7258.154/chromedriver");
 	WebDriver driver = new ChromeDriver();
 	driver.get("https://www.youtube.com/watch?v=IVqNY-DCzAo");
-
+System.out.println("THE TITLE IS    "+driver.getTitle());
 
 }
 }
