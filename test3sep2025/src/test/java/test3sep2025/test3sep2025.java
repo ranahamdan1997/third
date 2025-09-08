@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-public class Test3sep2025 {
+public class test3sep2025 {
 
     @Test
     public void test1() {
