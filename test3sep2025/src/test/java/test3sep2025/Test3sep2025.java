@@ -14,7 +14,7 @@ public class Test3sep2025 {
 
         driver.get("https://www.youtube.com/watch?v=IVqNY-DCzAo");
         System.out.println("THE TITLE IS: ya rab" + driver.getTitle());
-                System.out.println("THE TITLE IS: ya فteeest" + driver.getTitle());
+                System.out.println("THE TITLE IS: a فteeest" + driver.getTitle());
 
         driver.quit();
     }
